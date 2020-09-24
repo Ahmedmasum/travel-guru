@@ -1,0 +1,23 @@
+.bookingDetails {
+  display: flex;
+  margin-top: 50px;
+}
+.bookingDetails__left {
+  flex: 0.4;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+
+.bookingDetails__right {
+  flex: 0.6;
+  background-color: white;
+  height: 600px;
+  margin-right: 40px;
+}
+
+.google__map {
+  width: 50% !important;
+  height: 78% !important;
+  margin: 3%;
+  border: 5px solid orange;
+}

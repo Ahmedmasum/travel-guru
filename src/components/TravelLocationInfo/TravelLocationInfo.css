@@ -1,0 +1,22 @@
+.location__info {
+  flex: 0.4;
+  margin-left: 50px;
+}
+.location__info > h1 {
+  font-size: 50px;
+  font-style: normal;
+}
+.location__info > p {
+  margin-top: 10px;
+  color: lightgray;
+}
+.location__info > button {
+  margin-top: 20px;
+  background-color: orange;
+  width: 100px;
+  padding: 7px;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}

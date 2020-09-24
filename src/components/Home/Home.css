@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+  margin-top: 80px;
+}
+
+.location__info {
+  color: white;
+  flex: 0.4;
+}
+.location__cards {
+  display: flex;
+  flex: 0.6;
+  margin: 20px;
+  margin-left: 100px;
+}
+.location__cards > .location__card {
+  margin-left: 25px;
+}

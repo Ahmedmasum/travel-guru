@@ -1,0 +1,47 @@
+.booking {
+  display: flex;
+  margin-top: 100px;
+}
+.booking__left {
+  flex: 0.6;
+
+  color: white;
+}
+.booking__left h1 {
+  font-size: 50px;
+  margin-left: 10%;
+}
+.booking__left p {
+  margin-left: 10%;
+  color: lightgray;
+}
+.booking__right {
+  flex: 0.4;
+
+  color: white;
+}
+.booking__form {
+  width: 350px;
+  height: auto;
+  background-color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+.main__form input {
+  padding: 10px;
+  width: 80%;
+  margin: 8px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: lightgray;
+}
+.submit__button {
+  background-color: orange !important;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
